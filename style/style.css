@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-body-tertiary {
+    background-color: #A2AADB !important;
+}
+.bg-body-secondary {
+    background-color: #898AC4 !important;
+}
+.bg-body-primary {
+    background-color: #C0C9EE !important;
+}
